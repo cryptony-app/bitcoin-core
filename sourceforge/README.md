@@ -394,3 +394,29 @@ http://www.bitcoin.org/smf/index.php?topic=2367.0
 </div>
 </div>
 </div>
+
+<div class="l-two-column-page">
+<div class="l-content-column ">
+<div class="project-body">
+<article class="main-content ">
+<section class="row">
+<div class="small-12 columns">
+<section id="support-preferred">
+<h2>Best Way to Get Help</h2>
+Bitcoin says the best way to get help with its software is by visiting&nbsp;<a href="https://bitcointalk.org/index.php?board=4.0" rel="nofollow">https://bitcointalk.org/index.php?board=4.0</a>.</section>
+<section id="support-other">
+<h2>Other Ways Of Getting Help</h2>
+<p>Here are some other places where you can look for information about this project.</p>
+<h3>Project Homepage</h3>
+This project has a homepage which can be found at&nbsp;<a href="http://bitcoin.org/" rel="nofollow">http://bitcoin.org</a>.</section>
+</div>
+</section>
+</article>
+</div>
+</div>
+</div>
+<footer class="sandiego">
+<div class="as-row">
+<div class="footer-wrapper">&nbsp;</div>
+</div>
+</footer>
