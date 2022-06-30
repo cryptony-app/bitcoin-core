@@ -322,3 +322,75 @@ http://www.bitcoin.org/smf/index.php?topic=2367.0
 ... for information on contributing to Bitcoin development.
 
 -- gavin
+
+<h2 class="dark title">Home<small>&nbsp;</small></h2>
+<div id="subscription-form">&nbsp;</div>
+<h2 class="dark title"><small>&nbsp;&nbsp;</small></h2>
+<div class="editbox">
+<div class="grid-9 gravatar sm"><label class="simple">Authors:&nbsp;</label><a class="user-mention tooltipstered" href="https://sourceforge.net/u/gavinandresen/"><img class="emboss x16" title="Gavin Andresen" src="https://a.fsdn.com/con/images/sandiego/icons/default-avatar.png" alt="Gavin Andresen" /></a></div>
+</div>
+<div>
+<div>
+<div class="markdown_content">
+<p>Bitcoin is a decentralized P2P electronic cash system without a central server or trusted parties. Users hold the crypto keys to their own money and transact directly with each other, with the help of the network to check for double-spending.</p>
+<div class="">
+<div class="screenshot">
+<div class="image"><a class="lightbox" href="https://sourceforge.net/p/bitcoin/screenshot/332869.jpg"><img src="https://sourceforge.net/p/bitcoin/screenshot/332869.jpg/thumb" alt="Screenshot thumbnail" /></a><br />3. QR code for receiving payment</div>
+</div>
+<div class="screenshot">
+<div class="image"><a class="lightbox" href="https://sourceforge.net/p/bitcoin/screenshot/332865.jpg"><img src="https://sourceforge.net/p/bitcoin/screenshot/332865.jpg/thumb" alt="Screenshot thumbnail" /></a><br />1. Wallet overview</div>
+</div>
+<div class="screenshot">
+<div class="image"><a class="lightbox" href="https://sourceforge.net/p/bitcoin/screenshot/332867.jpg"><img src="https://sourceforge.net/p/bitcoin/screenshot/332867.jpg/thumb" alt="Screenshot thumbnail" /></a><br />2. Send Coins</div>
+</div>
+</div>
+<hr /><br />
+<h6>Project Admins:</h6>
+<ul class="md-users-list">
+<li><a href="https://sourceforge.net/u/gavinandresen/">Gavin Andresen</a></li>
+<li><a href="https://sourceforge.net/u/jgarzik/">Jeff Garzik</a></li>
+<li><a href="https://sourceforge.net/u/sipa/">Pieter Wuille</a></li>
+</ul>
+<br />
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+<hr />
+<div id="discussion_holder">
+<h2>Discussion</h2>
+<div>
+<div>
+<div class="comment-row">
+<div id="comment">
+<ul>
+<li>
+<div>
+<div id="fee0" class="discussion-post">
+<div class="comment-row">
+<div class="grid-2 tcenter gravatar">
+<p class="gravatar"><img class="emboss x48" title="Jan-Son" src="https://a.fsdn.com/con/images/sandiego/icons/default-avatar.png" alt="Jan-Son" /></p>
+</div>
+<div class="grid-16 post-content bubble">
+<div class="header"><a class="user-mention tooltipstered" href="https://sourceforge.net/u/jan-son/">Jan-Son&nbsp;</a>-&nbsp;<em><span title="Tue Dec 03, 2013 08:34 AM UTC">2013-12-03</span></em>
+<div class="tools"><a id="react_fee0" class="reaction-button icon btn ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only tooltipstered" href="https://sourceforge.net/p/bitcoin/wiki/Home/#" data-commentlink="/p/bitcoin/wiki/_discuss/thread/c58a70f7/fee0/" data-currentreact=""></a>&nbsp;&nbsp;</div>
+</div>
+<div class="display_post">
+<div>
+<div class="markdown_content">
+<p>How to change the location where it is going to put the downloaded data? there is no setting. Now it is always in users/roaming/bitcoin. I don't like that. Because the users drive is filling up with stuff i don't want there. Can you make a setting where you can choose to put it? Thanks!</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
