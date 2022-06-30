@@ -1,0 +1,62 @@
+sending: version      (46 bytes)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bitcoin CMyApp::OnInit()
+Loading addresses...
+dbenv.open strAppDir=C:\Users\danielng01\AppData\Roaming\Bitcoin
+mapAddresses:
+-----
+ addresses                 584097
+Loading block index...
+LoadBlockIndex(): hashBestChain=000000000019d6  height=0
+ block index                 9182
+Loading wallet...
+fGenerateBitcoins = 0
+nTransactionFee = 0
+addrIncoming = 0.0.0.0:0
+ wallet                     14164
+Done loading
+mapBlockIndex.size() = 1
+nBestHeight = 0
+mapKeys.size() = 3
+mapPubKeys.size() = 3
+mapWallet.size() = 0
+mapAddressBook.size() = 3
+addrLocalHost = 192.168.1.4:8333
+bound to addrLocalHost = 192.168.1.4:8333
+
+ERROR: GetMyExternalIP() : connection to 72.233.89.199:80 failed
+
+RefreshListCtrl starting
+RefreshListCtrl done
+IRC :*.freenode.net NOTICE * :*** Looking up your ident...
+IRC :*.freenode.net NOTICE * :*** Looking up your hostname...
+IRC :*.freenode.net NOTICE * :*** Found your hostname (90-154-135-196.ip.btc-net.bg) -- cached
+ThreadOpenConnections started
+ThreadSocketHandler started
+ThreadMessageHandler started
+SENDING: USER x185200501 8 * : x185200501
+BitcoinMiner started
+DBFlush(false)
+StopNode()
+IRC socket closed
+DBFlush(true)
+Bitcoin exiting
